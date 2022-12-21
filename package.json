@@ -1,0 +1,19 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "API movie base on GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackwh1te/movies-graphql.git"
+  },
+  "author": "Aleksander Lamkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blackwh1te/movies-graphql/issues"
+  },
+  "homepage": "https://github.com/Blackwh1te/movies-graphql#readme"
+}
